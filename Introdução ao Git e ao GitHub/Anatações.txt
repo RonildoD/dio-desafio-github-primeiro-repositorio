@@ -1,0 +1,12 @@
+	comandos ::
+
+## $ git status ( Localização de "itens" novos ou "editados" )
+
+## $ git add . ( Adicionar todos arquivos )
+
+## $ git commit -m" ( Mensagem ) "  ( Para add ima commit  )
+
+## $ git push origin main ( envia todos os commit )
+
+
+
